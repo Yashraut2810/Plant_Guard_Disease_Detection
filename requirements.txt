@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+Pillow
+google-generativeai
+torch
+torchvision
+streamlit
